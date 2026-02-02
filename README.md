@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Harsh Vardhan Singh</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently working as **Software Engineer(Dotnet)** with over 2.5 years of experience
 
-- 💬 Ask me about **C++, C#, JavaSript, MySQL, Php, Python, ReactJs, AJAX, JQuery, Dotnet**
+- 💬 Ask me about ** C#, ASP.Net Core,EntityFramework Core, MySQL, Php, Python, AJAX, JQuery, Dotnet**
 
 - 📫 How to reach me **vardhan6338@gmail.com**
 
